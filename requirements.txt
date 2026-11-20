@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn
+yt-dlp
+youtube-transcript-api
+google-genai
+python-multipart
